@@ -9,15 +9,15 @@
     <div class="newsBlocks">
       <NewsBlock
         imgName="banner2.jpg"
-        content="【獲獎】2020春之清華 – 藝術卓越獎 科技藝術類 得獎名單…"
+        content="【演講】05/28 從腦科學看藝術 (Art and the Brain: A Glimpse of Neuroaesthetics) 講題：從腦科學看藝術 Art and the Brain: A Gli…"
       />
       <NewsBlock
         imgName="banner1.png"
-        content="【獲獎】《那顆Ｇ1咻！》國立清華大學藝術學院學士班第一屆系展 得獎名單..."
+        content="【科藝專題講座】從藝術創造到行為設計 (2018.10.01) 演講者：曾元琦 副教授 時 間：10/01 (Mon.) 15:30pm…"
       />
       <NewsBlock
         imgName="banner3.jpg"
-        content="【獲獎】2020藝術學院學士班春之清華獎學金 獲獎名單 109學年度藝術學院學士班 【春之清華獎學金】 ★★★ 獲獎…"
+        content="北京清華「城市創變客 (City ChangeMaker) 暑期工作營 – 徵選工作坊主辦單位：北京清華大學港澳台辦公室 徵選單位：本校清華學院 執行…"
       />
     </div>
     <div class="decorationImg">
