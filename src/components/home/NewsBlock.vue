@@ -1,5 +1,6 @@
 <template>
   <div class="newsBlock">
+    <img :src="`/imgs/home/latestNews/${imgName}`" alt="" />
     <div class="content">{{ content }}</div>
     <div class="readMoreBtn">READ MORE</div>
   </div>
@@ -7,9 +8,10 @@
 
 <script>
 export default {
-  name: 'NewsBlock',
+  name: "NewsBlock",
   props: {
-    content: String
-  },
-}
+    content: String,
+    imgName: String
+  }
+};
 </script>
